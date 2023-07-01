@@ -70,7 +70,7 @@
 
 2023-06-27 14:05 [江苏曙光光电](https://mp.weixin.qq.com/s/Rc40x3xgH4huiLFbmN4_fw)
 
-2023-06-27 14:06 [unicorecomm.com/about/join](https://www.unicorecomm.com/about/join)
+2023-06-27 14:06 [和芯星通](https://www.unicorecomm.com/about/join)
 
 2023-07-01 09:12 [中电科十所](https://zdss.51job.com/campus.html)
 
