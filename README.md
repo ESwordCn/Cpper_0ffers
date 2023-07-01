@@ -58,5 +58,35 @@
 
 2023-06-27 11:43 [OPPO](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate)
 
+2023-06-27 13:51 [国微芯](https://mp.weixin.qq.com/s/KBdnso1QRimL8v9SC7TO_A)
+
+2023-06-27 13:53 [美芯晟](https://www.maxictech.com/about/careers)
+
+2023-06-27 13:57 [杭州迪普科技](https://dptech.zhiye.com/home)
+
+2023-06-27 14:00 [科大讯飞](https://campus.iflytek.com/official-pc/jobList)
+
+2023-06-27 14:05 [诺瓦星云](https://novastar.zhiye.com/campus/jobs)
+
+2023-06-27 14:05 [江苏曙光光电](https://mp.weixin.qq.com/s/Rc40x3xgH4huiLFbmN4_fw)
+
+2023-06-27 14:06 [unicorecomm.com/about/join](https://www.unicorecomm.com/about/join)
+
+2023-07-01 09:12 [中电科十所](https://zdss.51job.com/campus.html)
+
+2023-07-01 09:13 [中国航信](https://wecruit.hotjob.cn/SU6358e2600dcad448466b5464/pb/school.html?postTypeCode=0%2F1227%2F100701&postName=C)
+
+2023-07-01 09:18 [Wind万得](https://mp.weixin.qq.com/s/WWPLk7hONYOCNOdDFlpmEw)
+
+2023-07-01 09:20 [会员登陆-埃科光电招聘网](http://career.i-tek.cn/front.user.user/login)
+
+2023-07-01 09:22 [埃科光电 内推：XDCRL016](http://career.i-tek.cn/front.home.index/schoolList)
+
+2023-07-01 09:23 [用友（算法](https://wecruit.hotjob.cn/SU64869810bef57c16d352cca1/mc/detail?postId=649beb5b2f9d2453503a3618&recruitType=campus&distance=0)
+
+2023-07-01 09:24 [中新赛克](https://recruit.sinovatio.com/positions)
+
+2023-07-01 09:24 [影石](https://insta360.zhiye.com/Campus)
+
 
 
