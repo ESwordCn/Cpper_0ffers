@@ -84,5 +84,31 @@
 
 2023-07-01 09:24 [影石](https://insta360.zhiye.com/Campus)
 
+2023-07-09 10:13 [联发科](https://mediatek.zhiye.com/campus/jobs)
+
+2023-07-09 10:20 [英威腾](https://invt.zhaopin.com/job.html)
+
+2023-07-09 10:21 [米哈游](https://campus.mihoyo.com/?channelToken=6dd65287-c87a-401d-97f1-5c02595eb57c#/campus/position)
+
+2023-07-09 10:22 [芯动科技](https://innosilicon.zhiye.com/campus/jobs)
+
+2023-07-09 10:23 [海尔](https://maker.haier.net/smart_home/customizedjobs.html)
+
+2023-07-09 10:24 [浙江晶盛机电](https://app.mokahr.com/campus_apply/jsjd/24201#/jobs?zhineng=46732)
+
+2023-07-09 10:24 [鼎阳科技](https://siglent.zhiye.com/campus/jobs)
+
+2023-07-09 10:26 [华为](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)
+
+2023-07-09 10:27 [DJI 大疆](https://we.dji.com/zh-CN/campus/position?project=recruitment&team=T1001_T1003_T1004_T1005_T1006_T1007_T1008_T1009_T1010_T1011&page=1)
+
+2023-07-09 10:27 [元戎启行](https://app.mokahr.com/campus_apply/deeproute/6487#/jobs)
+
+2023-07-09 10:29 [九坤投资](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031?sourceToken=11e5413ce0921abca7937e8e087fa050#/)
+
+2023-07-09 10:30 [格力电器](https://gree.m.zhiye.com/index.html)
+
+2023-07-09 10:33 [友塔游戏](https://www.yotta-hr.com/job)
+
 
 
