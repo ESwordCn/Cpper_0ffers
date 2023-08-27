@@ -4,6 +4,8 @@
 
 ####  秋招CPP海投
 
+2023-06-19 11:46 [中兴通讯](https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100022014&zhineng=72363&page=1)
+
 2023-06-16 08:40 [禾赛科技](https://kwh0jtf778.jobs.feishu.cn/229043/position/7098923350776924446/detail)
 
 2023-06-16 11:44 [中电科54所](http://campus.51job.com/2024cetc54/p4.html)
@@ -19,8 +21,6 @@
 2023-06-19 09:14 [开影医疗 沈阳](https://mp.weixin.qq.com/s/yjYYU8eZ23PaNy9x2x5v0Q)
 
 2023-06-19 09:15 [国望光学](https://mp.weixin.qq.com/s/Ws2-HTMHKNNSIwWDz9NaPg)
-
-2023-06-19 09:15 [腾讯](https://join.qq.com/)
 
 2023-06-19 09:21 [XYZ Robotics](https://app.mokahr.com/campus_apply/xyzrobotics/26847#/)
 
@@ -39,8 +39,6 @@
 2023-06-02 21:10 [麦风科技](https://job.imyfone.cn/intern)
 
 2023-06-19 09:26 [北斗星通](https://www.bdstar.com/mobile/talent.aspx?type=31&id=1)
-
-2023-06-19 11:46 [中兴通讯](https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100022014&zhineng=72363&page=1)
 
 2023-06-19 11:47 [韶音科技](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/jobs?zhineng=65956)
 
@@ -81,8 +79,6 @@
 2023-07-01 09:24 [中新赛克](https://recruit.sinovatio.com/positions)
 
 2023-07-09 10:22 [芯动科技](https://innosilicon.zhiye.com/campus/jobs)
-
-2023-07-09 10:23 [海尔](https://maker.haier.net/smart_home/customizedjobs.html)
 
 2023-07-09 10:24 [浙江晶盛机电](https://app.mokahr.com/campus_apply/jsjd/24201#/jobs?zhineng=46732)
 
@@ -300,17 +296,11 @@
 
 2023-08-10 19:11 [合合信息](https://intsig.zhiye.com/campus/jobs)
 
-2023-07-01 09:22 [埃科光电(end](http://career.i-tek.cn/front.home.index/schoolList)
-
 2023-08-10 19:13 [搜狐](https://app.mokahr.com/campus_apply/sohu/5682#/job/0550b4b9-1cd6-41e6-88af-bd11adf5d3ba)
 
 2023-08-10 19:14 [中国软件测评中心](https://mp.weixin.qq.com/s/KSqZ3I1vGSOkf3EJTDuiJw)
 
-2023-08-10 19:15 [哔哩哔哩](https://jobs.bilibili.com/campus/positions?code=01&type=3&channel=bilibiliaccounts)
-
 2023-08-10 19:16 [海天集团](https://haitian.zhiye.com/campus/jobs)
-
-2023-08-10 19:16 [字节跳动](https://jobs.bytedance.com/campus/position)
 
 2023-08-10 19:16 [沐瞳科技](https://moonton.jobs.feishu.cn/campus/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=7259639754717677882&tag=)
 
@@ -318,27 +308,53 @@
 
 2023-08-10 19:19 [北京云道智造](https://app.mokahr.com/campus-recruitment/ibe/37870#/jobs?zhineng=77421)
 
-2023-08-10 19:22 [吉阳](http://nwsuaf.bysjy.com.cn/detail/online?id=2865262&menu_id=8460)
-
-2023-08-10 19:23 [瑞晟微电子](https://www.realsil.com.cn/Home/Position?page=2)
-
-2023-08-10 19:24 [创维](https://wecruit.hotjob.cn/SU62e24840bef57c63469fec10/pb/school.html)
-
 2023-08-10 19:24 [瑞霆狗](https://m.ratingdog.cn/join)
 
-2023-08-10 19:26 [巨人网络](https://hr.ztgame.com/campus/#0)
-
-2023-08-10 19:46 [禾赛科技校园招聘职位](https://kwh0jtf778.jobs.feishu.cn/229043/position/7098923350776924446/detail?spread=KHWW5AC)
-
-2023-08-10 19:47 [疯狂游戏](http://official-website.hortorgames.com/#/web/detail?id=647700a1c91f21000aeb391f)
-
 2023-08-10 19:49 [北京亚控](https://app.mokahr.com/campus_apply/wellintech/40598#/job/b88ad2cc-fc22-4d7c-b6f7-823456e7f342)
-
-2023-08-10 19:51 [鹰角网络](https://campus.hypergryph.com/campus_apply/hypergryph/26326/#/jobs?zhineng=72529)
 
 2023-08-10 19:51 [网龙](https://nd.zhiye.com/campus/jobs)
 
 2023-08-10 19:52 [北极雄芯](https://app.mokahr.com/campus-recruitment/bjxx/56139#/job/6f7b4174-557f-4b84-bcc3-eecb60cea6f6)
+
+2023-08-17 16:56 [苏文电能](https://swdnkj.com/job/xyzp.html)
+
+2023-08-17 16:59 [微众银行](https://campus.webank.com/campus-recruitment/webankhr/18005/#/job/2dab7bd5-9fce-41eb-a636-761cf8590b42)
+
+2023-08-17 17:03 [得一微电子](https://yeestor.zhiye.com/campus/jobs)
+
+2023-08-19 21:19 [菲利斯](https://mp.weixin.qq.com/s/-i13Qc_PCg_LB7Ir1q-_Ng)
+
+2023-08-10 19:26 [巨人网络](https://hr.ztgame.com/campus/#0)
+
+2023-08-10 19:51 [鹰角网络](https://campus.hypergryph.com/campus_apply/hypergryph/26326/#/jobs?zhineng=72529)
+
+2023-08-19 12:46 [奥太电气](https://mp.weixin.qq.com/s/_7pA4_5gFTF0JXv71ICEjw)
+
+2023-08-20 11:04 [开立生物](https://app.mokahr.com/campus-recruitment/sonoscape/94392#/job/ac85d725-d765-4cbb-a5db-248ee96b8042)
+
+2023-08-19 12:51 [远景](https://app.mokahr.com/campus_apply/envisiongroup/43123?recommendCode=DShBPn6p#/jobs?keyword=%E8%BD%AF%E4%BB%B6&page=1&anchorName=jobsList)
+
+2023-08-17 17:14 [得物](https://app.mokahr.com/campus-recruitment/thedu/37483?recommendCode=DS19nUw5#/jobs?zhineng%5B0%5D=15547&page=1&anchorName=jobsList)
+
+2023-08-17 17:15 [数字绿土](https://mh.hire66.com/position?secret_key=YNvJQSLTwc)
+
+2023-08-17 16:57 [美亚光电](https://wecruit.hotjob.cn/SU600f83f45d83dc11e4a54ed4/pb/posDetail.html?postId=64d5f3f66202cc36e27f4837&postType=campus)
+
+2023-08-19 12:54 [点点互动](https://centurygame.zhiye.com/campus/detail?jobAdId=24c298a4-45f9-47c1-92dd-dae7feeba248)
+
+2023-08-19 12:56 [游卡](https://app.mokahr.com/campus-recruitment/yokagames/41940?sourceToken=88735135c81f14ffe399ca5edef5f191#/jobs?zhineng=75732)
+
+2023-08-10 19:47 [疯狂游戏](http://official-website.hortorgames.com/#/web/detail?id=647700a1c91f21000aeb391f)
+
+2023-07-01 09:22 [埃科光电](http://career.i-tek.cn/front.home.index/schoolList)
+
+2023-08-10 19:16 [字节跳动](https://jobs.bytedance.com/campus/position)
+
+2023-08-10 19:15 [哔哩哔哩](https://jobs.bilibili.com/campus/positions?code=01&type=3&channel=bilibiliaccounts)
+
+2023-08-10 19:23 [瑞晟微电子](https://www.realsil.com.cn/Home/Position?page=2)
+
+2023-08-10 19:24 [创维](https://wecruit.hotjob.cn/SU62e24840bef57c63469fec10/pb/school.html)
 
 2023-08-11 19:44 [OPPO](https://careers.oppo.com/university/oppo/campus/)
 
@@ -348,27 +364,13 @@
 
 2023-08-17 16:52 [Metabit Trading](https://app.mokahr.com/apply/metabit-trading/26108#/job/63a8f294-8d02-416b-a1c7-6bc45d382767)
 
-2023-08-17 16:56 [苏文电能](https://swdnkj.com/job/xyzp.html)
-
-2023-08-17 16:57 [美亚光电](https://wecruit.hotjob.cn/SU600f83f45d83dc11e4a54ed4/pb/posDetail.html?postId=64d5f3f66202cc36e27f4837&postType=campus)
-
 2023-08-17 16:57 [喜马拉雅](https://app.mokahr.com/campus-recruitment/himalaya/92431#/job/83e383ca-f7ad-4648-9e0e-c1e11f56454a)
 
 2023-08-17 16:58 [思勰投资](https://app.mokahr.com/social-recruitment/sixiecapital/42909#/jobs?location=%E4%B8%8A%E6%B5%B7%E5%B8%82&department=[917278])
 
 2023-08-17 16:58 [蔚来](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7254481820200159547&type=&job_hot_flag=&current=1&limit=10&functionCategory=7257443883901208891&tag=)
 
-2023-08-17 16:59 [微众银行](https://campus.webank.com/campus-recruitment/webankhr/18005/#/job/2dab7bd5-9fce-41eb-a636-761cf8590b42)
-
-2023-08-17 17:03 [得一微电子](https://yeestor.zhiye.com/campus/jobs)
-
 2023-08-17 17:05 [联合飞机](https://www.uatair.com/about/school.html)
-
-2023-08-17 17:14 [得物](https://app.mokahr.com/campus-recruitment/thedu/37483?recommendCode=DS19nUw5#/jobs?zhineng%5B0%5D=15547&page=1&anchorName=jobsList)
-
-2023-08-17 17:14 [汇川技术](https://inovance.m.zhiye.com/#/RewardJob?shareid=19920dab-1e9f-4bc8-9149-49d6c8e5d612&token=c30c9bec3b3e6c0c5764c53249e695&RewardJob=1)
-
-2023-08-17 17:15 [数字绿土](https://mh.hire66.com/position?secret_key=YNvJQSLTwc)
 
 2023-08-17 17:17 [莉莉丝](https://lilithgames.jobs.feishu.cn/campus/?spread=9HG5Y7R)
 
@@ -376,13 +378,15 @@
 
 2023-08-17 17:21 [达摩院](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh)
 
-2023-08-17 17:22 [菜鸟集团](https://jinshuju.net/f/e56EKU)
-
-2023-08-17 17:23 [东方财富](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/home)
+2023-08-17 17:22 [菜鸟集团](https://jobs.cainiao.com/campus/position-list?campusType=freshman&lang=zh)
 
 2023-08-17 17:24 [饿了么](https://talent.ele.me/campus/position-detail?lang=zh&positionId=2020650)
 
-2023-08-19 12:46 [奥太电气](https://mp.weixin.qq.com/s/_7pA4_5gFTF0JXv71ICEjw)
+2023-08-25 15:49 [阿里国际数字商业集团](https://aidc-jobs.alibaba.com/campus/position-list?campusType=freshman&lang=zh)
+
+2023-08-25 15:48 [淘天集团](https://talent.taotian.com/campus/position-list?campusType=freshman&lang=zh)
+
+2023-08-17 17:23 [东方财富](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/home)
 
 2023-08-19 12:46 [高德红外](https://wecruit.hotjob.cn/SU61137860bef57c653306515b/pb/school.html?postKey=C%2B%2B)
 
@@ -390,35 +394,23 @@
 
 2023-08-19 12:50 [广立微](https://www.semitronix.com/joinus/job-list/)
 
-2023-08-19 12:51 [远景](https://app.mokahr.com/campus_apply/envisiongroup/43123?recommendCode=DShBPn6p#/jobs?keyword=%E8%BD%AF%E4%BB%B6&page=1&anchorName=jobsList)
-
 2023-08-19 12:52 [思必驰](https://aispeech1.zhiye.com/campus/jobs)
 
 2023-08-19 12:53 [奇安信](https://campus.qianxin.com/campus/jobSearch?jobTag=all)
 
-2023-08-19 12:54 [点点互动](https://centurygame.zhiye.com/campus/detail?jobAdId=24c298a4-45f9-47c1-92dd-dae7feeba248)
-
 2023-08-19 12:55 [九号公司](https://zhaopin.ninebot.com/campus-recruitment/ninebot/45627#/jobs?zhineng=133584)
-
-2023-08-19 12:56 [游卡](https://app.mokahr.com/campus-recruitment/yokagames/41940?sourceToken=88735135c81f14ffe399ca5edef5f191#/jobs?zhineng=75732)
 
 2023-08-19 12:56 [小米](https://xiaomi.jobs.f.mioffice.cn/campus/?spread=J7NS6YR)
 
 2023-08-19 12:57 [腾讯](https://join.qq.com/post.html?query=2_75,2_76,2_77,2_84,2_93,2_231,2_250,p_1)
 
-2023-08-19 12:58 [蔚来](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7254481820200159547&type=&job_hot_flag=&current=1&limit=10&functionCategory=7257443883901208891&tag=&spread=8DA4MBZ)
-
 2023-08-19 12:58 [腾讯音乐娱乐](https://join.tencentmusic.com/campus/post?type=10)
-
-2023-08-19 12:59 [TI](https://careers.ti.com/search-jobs/)
 
 2023-08-19 13:00 [曙光](http://sugon.zhiye.com/xzlist/?p=1%5E-1%2C3%5E-1&n=1&PageIndex=2)
 
 2023-08-19 13:05 [万孚生物](https://app.mokahr.com/campus-recruitment/wondfo/37534#/job/30b5f163-69eb-4d8e-82cf-836bec66dae0)
 
-2023-08-19 21:19 [菲利斯](https://mp.weixin.qq.com/s/-i13Qc_PCg_LB7Ir1q-_Ng)
-
-2023-08-19 21:31 [Hygon](https://www.hotjob.cn/wt/Hygon/mobweb/v8/position/detail?safe=Y&canBack=true&recruitType=1&postIdsAry=132105&postCanApply=0&entityPage.currentPage=1&openid=&brandCode=1&chooseSiteId=)
+2023-08-19 21:31 [海光Hygon](https://www.hotjob.cn/wt/Hygon/mobweb/v8/position/detail?safe=Y&canBack=true&recruitType=1&postIdsAry=132105&postCanApply=0&entityPage.currentPage=1&openid=&brandCode=1&chooseSiteId=)
 
 2023-08-19 21:33 [亿道集团](https://app.mokahr.com/campus-recruitment/emdoor/39713#/job/2c0ca499-249b-4c0a-9173-0095e2640909)
 
@@ -428,13 +420,21 @@
 
 2023-08-19 21:46 [Metabit Trading](https://app.mokahr.com/apply/metabit-trading/26108#/jobs)
 
-2023-08-20 11:04 [开立生物](https://app.mokahr.com/campus-recruitment/sonoscape/94392#/job/ac85d725-d765-4cbb-a5db-248ee96b8042)
-
 2023-08-20 11:08 [度小满](https://app.mokahr.com/campus-recruitment/duxiaoman/74050?sourceToken=b8530b766433387e3f9ddfea0c1507ee#/jobs?zhineng%5B0%5D=115760&page=1&anchorName=jobsList)
 
 2023-08-20 11:13 [启林投资](https://mp.weixin.qq.com/s/M-fUmFB6OKgCH3YkFJwZPw)
 
-2023-08-20 11:13 [硅谷数模](https://mp.weixin.qq.com/s/hD_azyo1zPzq-xKCaF2o3w)
+2023-08-25 15:17 [数码视讯](https://mp.weixin.qq.com/s/i8X6WGzKSLnmUiPz70d-yQ)
+
+2023-08-25 15:22 [钱塘科技](https://mp.weixin.qq.com/s/TiSzjcrib3HvVZcwxcP5KQ)
+
+2023-08-25 15:28 [同为股份](https://mp.weixin.qq.com/s/4XKDDRSMkRDnoBZFqSYW0g)
+
+2023-08-25 15:29 [杭州龙旗](https://mp.weixin.qq.com/s/WZ6Elzc67Xyxan0zU_OFMQ)
+
+2023-08-25 15:50 [网宿科技](https://mp.weixin.qq.com/s/2deWdVhooY7nbdRUTZ4hfA)
+
+2023-08-25 15:35 [黑翼资产](https://mp.weixin.qq.com/s/3pYK1Tpccf_6fdm_CPhwlQ)
 
 2023-08-20 11:16 [新国都](https://campus.xgd.com/campus_apply/xgd/7850/#/job/3d98a873-5c37-4c41-93a8-8685164df268)
 
@@ -442,5 +442,153 @@
 
 2023-08-20 11:20 [天王星量化](https://app.mokahr.com/campus-recruitment/uranus-research/54175#/jobs?project=100036002&zhineng%5B0%5D=85166&page=1&anchorName=jobsList)
 
+2023-08-20 13:15 [英集芯科技](http://job.injoinic.com/search.html?type_id=1)
 
+2023-08-22 16:16 [FunPlus](https://campus.funplus.com.cn/)
+
+2023-08-25 15:17 [国光电器](https://www.hotjob.cn/wt/ggec/web/index/campus)
+
+2023-08-25 15:20 [科曼医疗](https://szcomen.zhiye.com/campus/detail?jobAdId=b044386d-36dc-48e6-8ec2-8197da094926)
+
+2023-08-25 15:20 [芯驰科技](https://app.mokahr.com/campus-recruitment/semidrive/42941#/job/6f7ea03c-b686-4b07-bcf8-560cc2884409)
+
+2023-08-19 12:59 [TI](https://careers.ti.com/search-jobs/)
+
+2023-08-25 15:21 [鸿芯微纳](https://app.mokahr.com/campus-recruitment/giga-da/26752#/job/943111fe-f252-4d51-8326-7dbe7383f099)
+
+2023-08-25 15:23 [西云数据](https://app.mokahr.com/campus_apply/nwcdcloud/4047#/jobs?zhineng=46830)
+
+2023-08-25 15:23 [三七互娱](https://app.mokahr.com/campus_apply/37/25238#/job/6c433879-81df-4561-b6df-0098df3b1aff)
+
+2023-08-25 15:24 [上海银行](https://bosc.zhiye.com/campus/jobs)
+
+2023-08-25 15:26 [森马股份](https://app.mokahr.com/campus-recruitment/senma/67981#/job/1f50bc4d-0c0f-4be5-a6fa-9428258c2bb4)
+
+2023-08-25 15:26 [浙江中控](https://app.mokahr.com/campus-recruitment/zkxx/94393#/jobs?commitment=%E5%85%A8%E8%81%8C&zhineng%5B0%5D=49196&zhineng%5B1%5D=20649&page=1&anchorName=jobsList)
+
+2023-08-25 15:27 [方大集团](https://fangda.zhiye.com/Campus)
+
+2023-08-25 15:32 [无锡奥特维](https://app.mokahr.com/campus-recruitment/wxautowell/45558#/jobs/?zhineng%5B0%5D=95835&page=1&anchorName=jobsList)
+
+2023-08-25 15:46 [上汽通用五菱](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/school.html)
+
+2023-08-25 15:33 [睿能集团](https://app.mokahr.com/campus-recruitment/raynen/115955#/job/76fd4f72-1a66-4473-849d-e01495f7f5f4)
+
+2023-08-25 15:33 [上海云思智慧](https://smarchit.xinrenxinshi.com/recruitGate/detail#/ey=0ebdb00a89447c6a8f15cca7cb395a4186c460&jobId=3833842e24864ed691fc5e3ac1c698b3)
+
+2023-08-25 15:36 [智加](https://app.mokahr.com/social-recruitment/plus/73958#/jobs?page=1&anchorName=jobsList)
+
+2023-08-25 15:43 [网易游戏(互娱)](https://game.campus.163.com/position)
+
+2023-08-25 15:44 [顺丰](https://campus.sf-express.com/#/positionList)
+
+2023-08-25 15:45 [北醒科技](https://benewake.jobs.feishu.cn/benewake/position/6992825595458144523/detail)
+
+2023-08-25 15:46 [360集团](https://360campus.zhiye.com/campus/jobs)
+
+2023-08-25 15:49 [绿盟科技](https://app.mokahr.com/campus_apply/nsfocus/29118#/jobs?commitment=%E5%85%A8%E8%81%8C&zhineng=51908)
+
+2023-08-25 15:49 [迈瑞](https://career.mindray.com/campus/jobs)
+
+2023-08-25 16:01 [蒙牛](https://mengniu.zhiye.com/custom/weilaixing?hideMenu=1)
+
+2023-08-25 16:02 [顽岩资产](https://app.mokahr.com/campus-recruitment/wanyantech/76126#/page/%E6%A0%A1%E6%8B%9B%E8%81%8C%E4%BD%8D)
+
+2023-08-26 15:24 [深圳开鸿数字](https://zhaopin.haitou.cc/C47E7E5CFF#position)
+
+2023-08-25 16:05 [黑芝麻](https://bsthr.zhiye.com/campus/jobs)
+
+2023-08-25 16:06 [Momenta](https://momenta.jobs.feishu.cn/campus/position/list)
+
+2023-08-25 16:07 [松霖科技](https://solex1.zhiye.com/Campus/jobs)
+
+2023-08-25 16:07 [神州数码](https://digitalchina.zhiye.com/campus/detail?jobAdId=18ae0409-b2d9-4b52-a2d1-a4470c270f31)
+
+2023-08-25 16:08 [翱捷科技](https://app.mokahr.com/campus-recruitment/asrmicro/71887#/job/0fc10a8b-96d8-41d9-b93e-56e556582e37)
+
+2023-08-25 16:10 [联合汽车电子](http://campus.51job.com/uaes2024/index2.html)
+
+2023-08-25 16:11 [冰川](https://app.mokahr.com/campus-recruitment/q1/37569#/job/644e94ff-b232-41e2-b7a7-75c49454e8d2)
+
+2023-08-25 16:11 [迅雷](https://campus.xunlei.com/campus_apply/xunlei/26600/#/jobs?zhineng=49200)
+
+2023-08-25 16:13 [海格通信](https://haige.zhiye.com/campus/jobs)
+
+2023-08-25 16:13 [第四范式](https://app.mokahr.com/campus-recruitment/4paradigm/58145#/)
+
+2023-08-25 16:14 [中海达](https://www.zhdgps.com/collegeByPosition/%E7%A0%94%E5%8F%91%E7%B1%BB)
+
+2023-08-25 16:14 [同花顺](https://campus.10jqka.com.cn/job/list)
+
+2023-08-25 16:14 [FunPlus](https://app.mokahr.com/campus-recruitment/funplus01/23962?sourceToken=19641429a62ac933a3b91b77fdef6e26#/jobs?zhineng=45509)
+
+2023-08-25 16:15 [Ampace](https://ampace.hotjob.cn/SU64c9f5896202cc125d46a69c/pb/posDetail.html?postId=64dc797b6202cc36e28e4252&postType=campus)
+
+2023-08-25 16:17 [CVTE](https://campus.cvte.com/project/1110760e381911ee85900ebd24688c7d)
+
+2023-08-25 16:17 [信步科技](https://mp.weixin.qq.com/s/8JUQvRsvgeF9JXyqtBPz5g)
+
+2023-08-25 16:18 [中国一汽](https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=202801)
+
+2023-08-25 16:20 [挚文集团](https://campus.hellogroup.com/campus-recruitment/immomo/54299/#/jobs/?zhineng=140963&commitment=%E5%85%A8%E8%81%8C)
+
+2023-08-25 16:21 [美的](https://careers.midea.com/schoolOut/post)
+
+2023-08-25 16:21 [北京奕斯伟计算](https://campus.eswincomputing.com/campusxq?jobId=310762413&c=&c2=&p=1^26,3^-1&ky=&d=&PageIndex=#zw)
+
+2023-08-25 16:22 [ATL新能源](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/school.html?postTypeCode=0%2F1227%2F522603)
+
+2023-08-25 16:22 [台积电登](https://mp.weixin.qq.com/s/1xYi-vvlqXvmv1lu_Wjn4A)
+
+2023-08-25 16:22 [收钱吧](https://shouqianba.zhiye.com/campus/jobs)
+
+2023-08-25 16:23 [华勤集团](https://app.mokahr.com/campus-recruitment/hq/44757#/job/61739ed9-8729-44dd-9208-43efea51c3f5)
+
+2023-08-25 16:24 [看云控股](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?zhineng=115462)
+
+2023-08-25 16:25 [KLOOK](https://mp.weixin.qq.com/s/xkjNhcGpxyK85dsTP-sW7A)
+
+2023-08-26 17:50 [禾赛科技](https://kwh0jtf778.jobs.feishu.cn/229043)
+
+2023-08-27 14:09 [阿里巴巴控股集团](https://talent-holding.alibaba.com/personal/campus-application?lang=zh)
+
+2023-08-27 14:55 [中国航天科工集团三院第三总体设计部](https://mp.weixin.qq.com/s/uv3WRaojfpTZDTMsgNnP7g)
+
+2023-08-27 15:27 [阿里云](https://careers.aliyun.com/campus/home?lang=zh)
+
+2023-08-27 15:57 [元象XVERSE](https://xverse.xinrenxinshi.com/recruitGate/list#/ey=0ebdb0058b4d7c688f15cca7c838584486c162)
+
+2023-08-27 15:58 [宝时得](https://positec.hotjob.cn/)
+
+2023-08-27 15:59 [联影](https://united-imaging.zhiye.com/campus/jobs)
+
+2023-08-27 16:00 [中车株洲电力机车](http://crrczzs.zhiye.com/campusxq?jobId=351055250)
+
+2023-08-27 16:02 [水滴](https://wdh.jobs.feishu.cn/345030/position/7270022953537587492/detail)
+
+2023-08-27 16:02 [艾罗](https://www.duomian.com/job/85a2550d178552073c677f82ca1a5a32.shtml)
+
+2023-08-27 16:05 [葡萄城](https://campus.grapecity.com.cn/Recruiting/Resume)
+
+2023-08-27 16:07 [合明软件](http://www.hemingsoft.com/zxns/info_27.aspx?itemid=299)
+
+2023-08-27 16:07 [北京易控智驾](https://app.mokahr.com/campus-recruitment/eqhr/39786#/jobs?zhineng=75311)
+
+2023-08-27 16:09 [招商银行](https://career.cmbchina.com/positionlist/96574F8D-C7ED-4772-AE7C-BAC896D190C1)
+
+2023-08-27 16:09 [中国民生银行](http://career.cmbc.com.cn:8080/#/app/recruitmentview/e5b506a9-24c4-4b5b-a198-909b7c967151)
+
+2023-08-27 16:10 [联特科技](https://mp.weixin.qq.com/s/4miNQy6WTyCtEPKCFJUYLw)
+
+2023-08-27 16:11 [中国电信](http://www.chinatelecom.com.cn/zp/202308/t20230825_76200.html)
+
+2023-08-27 16:13 [华测导航](https://huace.zhiye.com/campus)
+
+2023-08-27 16:15 [戴尔](https://chinajobs.dell.com/%e5%b7%a5%e4%bd%9c/-/2024-campus-software-engineer/25848/53119482800)
+
+2023-08-27 16:16 [Mastercard](https://careers.mastercard.com/us/en/student-opportunities)
+
+2023-08-27 16:17 [青岛鼎信通讯](https://career.topscomm.com/campus-recruitment/topscomm/72082/#/job/3710c672-9037-4fa5-893d-b64dccd3fac4)
+
+#####  -------------👆已投递👆--------------
 
